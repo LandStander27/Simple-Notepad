@@ -1,8 +1,7 @@
 # Simple-Notepad
 Just a simple notepad
 
-Keybinds - 
-
+Keybinds - \n
 Ctrl + Shift + S - Save as
 
 Ctrl + S - Save
